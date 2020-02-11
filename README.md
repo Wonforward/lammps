@@ -1,2 +1,2 @@
 # lammps
- the input file for Silicon
+ the input file for Silicons
