@@ -1,2 +1,2 @@
 # lammps
- the input file for Silicons
+ the input files for Silicon, Silicon-Germinum, Silicon-Germinum-Tin
